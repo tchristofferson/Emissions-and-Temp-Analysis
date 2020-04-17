@@ -4,5 +4,7 @@ Data analysis to see the correlation between emissions and temperature. Python w
 ## Results
 #### Correlation
 pearson: 0.8912568
+
 kendall: 0.6493186
+
 spearman: 0.8381331
